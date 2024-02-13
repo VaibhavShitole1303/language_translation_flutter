@@ -100,6 +100,8 @@ class _LaguageTranslationPageState extends State<LaguageTranslationPage> {
               ),
               SizedBox(height: 40,),
               Padding(
+
+
                 padding: const EdgeInsets.all(8.0),
                 child: TextFormField(
                   cursorColor: Colors.white,
